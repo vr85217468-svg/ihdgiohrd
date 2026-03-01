@@ -1,0 +1,9 @@
+{
+    "name": "my-chat-app",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "masterchat": "^0.17.0",
+        "axios": "^1.6.0"
+    }
+}
